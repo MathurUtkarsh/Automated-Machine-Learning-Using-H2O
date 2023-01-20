@@ -1,1 +1,3 @@
-# Automated-Machine-Learning-Using-H2O
+# Automated Machine Learning Using H2O
+
+H2O is an open-source platform for building, deploying, and using machine learning models. It provides an automated machine learning (AutoML) capability that allows users to quickly and easily build, evaluate, and optimize machine learning models. AutoML in H2O includes features such as automatic feature engineering, model selection and tuning, and ensembling. It supports a wide range of algorithms, including generalized linear models, gradient boosting machines, and deep learning. With H2O, users can also deploy their models as RESTful web services, making it easy to integrate machine learning into existing applications.
